@@ -1,16 +1,51 @@
-# License Plate Detection using Python and OpenCV
+# AI & Data Projects – Juturu Sasidhar
 
-This project detects vehicle license plates using computer vision.
+This repository contains my beginner projects in Python, Data Analysis, and Artificial Intelligence.
 
-Technologies Used
+## Skills Demonstrated
+- Python Programming
+- Data Analysis using Pandas
+- Computer Vision using OpenCV
+- Machine Learning Fundamentals
+
+---
+
+## Project 1: License Plate Detection
+Detects vehicle license plates using OpenCV.
+
+Technologies:
 - Python
 - OpenCV
 - TensorFlow
 
-Features
-- Detect license plates from vehicle images
-- Extract plate region
-- Real-time detection capability
+Features:
+- Image preprocessing
+- Plate detection using Haar Cascade
+- Visual detection output
 
-Author
-Juturu Sasidhar
+File:
+plate_detection.py
+
+---
+
+## Project 2: Basic Data Analysis
+Simple employee dataset analysis using Pandas.
+
+Technologies:
+- Python
+- Pandas
+
+Features:
+- Dataset creation
+- Average salary calculation
+- Group by department analysis
+
+File:
+data_analysis.py
+
+---
+
+## Author
+Juturu Sasidhar  
+B.Tech Computer Science  
+Python | AI | Data Enthusiast
