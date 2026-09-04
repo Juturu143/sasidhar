@@ -1,2 +1,7 @@
 opencv-python
 numpy
+ultralytics
+paddleocr
+paddlepaddle
+cvzone
+mysql-connector-python
